@@ -12,6 +12,12 @@
 * 自前関数でFFT
 * FFT結果を美しくVisualize
 
+## addon ##
+* ofxGui  
+* ofxNoncopyable  
+* ofxVboSet  
+* ofxXmlSettings  
+
 ## Device ##
 
 
